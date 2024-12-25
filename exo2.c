@@ -1,0 +1,1 @@
+ minimumExclus n m criteres
